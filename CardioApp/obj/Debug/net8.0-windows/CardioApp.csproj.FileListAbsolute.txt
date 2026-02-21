@@ -1,0 +1,14 @@
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.AssemblyInfoInputs.cache
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.AssemblyInfo.cs
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.csproj.CoreCompileInputs.cache
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\bin\Debug\net8.0-windows\CardioApp.exe
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\bin\Debug\net8.0-windows\CardioApp.deps.json
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\bin\Debug\net8.0-windows\CardioApp.runtimeconfig.json
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\bin\Debug\net8.0-windows\CardioApp.dll
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\bin\Debug\net8.0-windows\CardioApp.pdb
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.dll
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\refint\CardioApp.dll
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.pdb
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.genruntimeconfig.cache
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\ref\CardioApp.dll
