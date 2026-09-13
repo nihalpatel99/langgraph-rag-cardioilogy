@@ -1,3 +1,4 @@
+import wikipedia
 from langchain_community.tools import WikipediaQueryRun
 from langchain_community.utilities import WikipediaAPIWrapper
 from components.state import CardioState
@@ -20,6 +21,10 @@ os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_PROJECT"]="ReAct-agent"
+
+# Wikimedia now rate-limits/blocks the wikipedia package's default generic
+# User-Agent; a distinct one is required for API requests to succeed.
+wikipedia.set_user_agent("CardioApp/1.0 (nihal1999patel@gmail.com)")
 
 api_wrapper_wiki=WikipediaAPIWrapper(top_k_results=1,doc_content_chars_max=500)
 

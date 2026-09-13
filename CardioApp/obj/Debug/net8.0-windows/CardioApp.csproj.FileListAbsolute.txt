@@ -12,3 +12,4 @@ C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debu
 C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.pdb
 C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.genruntimeconfig.cache
 C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\ref\CardioApp.dll
+C:\Users\nihal\Resume projects 2026\langgraph-rag-cardioilogy\CardioApp\obj\Debug\net8.0-windows\CardioApp.sourcelink.json

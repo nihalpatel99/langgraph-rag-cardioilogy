@@ -9,7 +9,7 @@ from components.tools.tools import  get_tools
 
 from langchain_groq import ChatGroq
 
-llm=ChatGroq(model="llama-3.1-8b-instant")
+llm=ChatGroq(model="openai/gpt-oss-20b")
 
 tools = get_tools()
 llm_with_tools = llm.bind_tools(tools)
