@@ -1,4 +1,6 @@
 # LangGraph RAG Cardiology Assistant
+<img width="883" height="594" alt="image" src="https://github.com/user-attachments/assets/71bb9a31-5df0-4f0d-94b1-4aae5dc1ed73" />
+
 
 A cardiology-focused AI assistant built with LangGraph, FastAPI, and a C# WinForms desktop client. The agent uses a ReAct loop to query multiple medical knowledge sources and return synthesized answers.
 
